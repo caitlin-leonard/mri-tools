@@ -4,9 +4,6 @@
   supports manual ROI selection and coordinate-based cropping
   for <code>.tif</code>, <code>.tiff</code>, and <code>.jp2</code> formats.
 </p>
-<p align="center">
-  <i>Built during a Summer Research Internship at the Sudha Gopalakrishnan Brain Centre, IIT Madras</i>
-</p>
 
 <hr>
 
@@ -79,9 +76,4 @@ Saved cropped image to: autocrop_brain_downsampled.tif
 
 <hr>
 
-<h3>🏫 Context</h3>
-<p>
-  Built during a Summer Research Internship at the
-  <b>Sudha Gopalakrishnan Brain Centre, IIT Madras</b>
-  as part of a foetal MRI preprocessing pipeline.
-</p>
+
