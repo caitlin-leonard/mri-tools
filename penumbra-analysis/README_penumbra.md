@@ -3,9 +3,7 @@
   A multi-step MRI processing pipeline for ischemic stroke penumbra analysis —
   segmenting the infarct core, detecting veins from SWI, and computing the penumbra region.
 </p>
-<p align="center">
-  <i>Built during a Summer Research Internship at the Sudha Gopalakrishnan Brain Centre, IIT Madras</i>
-</p>
+
 
 <hr>
 
@@ -116,8 +114,3 @@ python penumbra_outline.py # Step 5 — generate 3D outline
 <hr>
 
 <h3>🏫 Context</h3>
-<p>
-  Built during a Summer Research Internship at the
-  <b>Sudha Gopalakrishnan Brain Centre, IIT Madras</b>
-  as part of a brain MRI analysis pipeline for ischemic stroke research.
-</p>
