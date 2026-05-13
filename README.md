@@ -76,8 +76,3 @@
 <hr>
 
 <h3>🏫 Context</h3>
-<p>
-  All tools were built during a Summer Research Internship at the
-  <b>Sudha Gopalakrishnan Brain Centre, IIT Madras</b>
-  as part of a foetal and adult brain MRI preprocessing and analysis pipeline.
-</p>
