@@ -4,9 +4,7 @@
   fills diagonal disconnections and buffers thin regions
   to produce cleaner, more complete segmentation masks.
 </p>
-<p align="center">
-  <i>Built during a Summer Research Internship at the Sudha Gopalakrishnan Brain Centre, IIT Madras</i>
-</p>
+
 
 <hr>
 
@@ -85,9 +83,3 @@ Manual fine-tuning in ITK-SNAP or 3D Slicer is recommended after running this to
 
 <hr>
 
-<h3>🏫 Context</h3>
-<p>
-  Built during a Summer Research Internship at the
-  <b>Sudha Gopalakrishnan Brain Centre, IIT Madras</b>
-  as part of a cortical palate segmentation refinement pipeline.
-</p>
