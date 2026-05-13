@@ -113,4 +113,4 @@ python penumbra_outline.py # Step 5 — generate 3D outline
 
 <hr>
 
-<h3>🏫 Context</h3>
+
